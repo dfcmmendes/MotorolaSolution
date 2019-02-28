@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="MotorolaSolution:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="MotorolaSolution.war">
-      <element id="artifact" artifact-name="MotorolaSolution:war exploded" />
-    </root>
-  </artifact>
-</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="enableJSFormatting" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1480354209698" />
+    <option name="name" value="default" />
+    <option name="pathToConfigFileJS" value="C:/SVN/trunk/src/new_arch/build/code-quality-rules-config/src/main/resources/checkstyle/eclipse/formatter-config-js.xml" />
+    <option name="pathToConfigFileJava" value="C:/SVN/trunk/src/new_arch/build/code-quality-rules-config/src/main/resources/checkstyle/eclipse/formatter-config.xml" />
+    <option name="selectedJavaProfile" value="netwin" />
+    <option name="selectedJavaScriptProfile" value="JavaScript Conventions [built-in] - netwin" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

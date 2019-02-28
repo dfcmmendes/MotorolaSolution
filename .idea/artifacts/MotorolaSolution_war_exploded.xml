@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MotorolaSolution:war exploded">
+    <output-path>$PROJECT_DIR$/target/MotorolaSolution</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MotorolaSolution" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.json:json:20141113" />
+          <element id="library" level="project" name="Maven: com.sun.xml.ws:jaxws-rt:2.2.10" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.2.12-b140109.1041" />
+          <element id="library" level="project" name="Maven: javax.xml.ws:jaxws-api:2.2.11" />
+          <element id="library" level="project" name="Maven: javax.xml.soap:javax.xml.soap-api:1.3.7" />
+          <element id="library" level="project" name="Maven: javax.annotation:javax.annotation-api:1.2" />
+          <element id="library" level="project" name="Maven: javax.jws:jsr181-api:1.0-MR1" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-core:2.2.10-b140802.1033" />
+          <element id="library" level="project" name="Maven: com.sun.xml.bind:jaxb-impl:2.2.10-b140802.1033" />
+          <element id="library" level="project" name="Maven: com.sun.xml.ws:policy:2.4" />
+          <element id="library" level="project" name="Maven: org.glassfish.gmbal:gmbal-api-only:3.1.0-b001" />
+          <element id="library" level="project" name="Maven: org.glassfish.external:management-api:3.0.0-b012" />
+          <element id="library" level="project" name="Maven: org.jvnet.staxex:stax-ex:1.7.7" />
+          <element id="library" level="project" name="Maven: com.sun.xml.stream.buffer:streambuffer:1.5.3" />
+          <element id="library" level="project" name="Maven: org.jvnet.mimepull:mimepull:1.9.4" />
+          <element id="library" level="project" name="Maven: com.sun.xml.fastinfoset:FastInfoset:1.2.13" />
+          <element id="library" level="project" name="Maven: org.glassfish.ha:ha-api:3.1.9" />
+          <element id="library" level="project" name="Maven: com.sun.xml.messaging.saaj:saaj-impl:1.3.25" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.2.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.woodstox:stax2-api:3.1.1" />
+          <element id="library" level="project" name="Maven: com.sun.org.apache.xml.internal:resolver:20050927" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.17" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-servlet:1.17" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-server:1.17" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/MotorolaSolution/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="MotorolaSolution/web/Web" />
+    </root>
+  </artifact>
+</component>
